@@ -22,11 +22,11 @@ My goal is to combine clean code with creative solutions to build responsive, en
   ---
 ***SOME PROJECTS:***
 
-- 🚗 Cars Website: https://dovlica24.github.io/cars-website/
+ 🚗 Cars Website: https://dovlica24.github.io/cars-website/
 
-- 📱 Phones Website: https://dovlica24.github.io/phones-website/
+ 📱 Phones Website: https://dovlica24.github.io/phones-website/
 
-- 👾 GamingNews Website: https://dovlica24.github.io/gaming-news/
+ 👾 GamingNews Website: https://dovlica24.github.io/gaming-news/
 
 
 
