@@ -17,7 +17,7 @@ My goal is to combine clean code with creative solutions to build responsive, en
 
 - Creating minimalist full responsive Website templates with HTML & CSS & JS. Front-end based Websites. 
 
-- Creating small & simple minimalistic Websites without any Maintance or Updates for small & startup Businesses.
+- Creating small & simple Minimalistic Websites without any Maintance or Updates for small & startup Businesses.
 
   ---
 ***SOME PROJECTS:***
