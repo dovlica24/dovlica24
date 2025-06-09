@@ -9,10 +9,6 @@ My goal is to combine clean code with creative solutions to build responsive, en
 
 - Responsive Website: Making Website looks good on: Desktop, Tablet and Mobile devices. 
   
-- Hamburger menu: Creating Hamburger menu for Mobile resolutions, with smooth and animated effects. 
-  
-- Creating switch button for Dark/Light Website themes. 
-
 - Creating Templates for repeating code on Website. 
 
 - Creating minimalist full responsive Website templates with HTML & CSS & JS. Front-end based Websites. 
